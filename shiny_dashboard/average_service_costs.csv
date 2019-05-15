@@ -1,0 +1,83 @@
+service_call_category,positions_currency,sales_organisation,avg_service_cost,total_service_count
+Accessories,EUR,150 Organisation Oesterreich,1317.102013,757
+Breakdown,EUR,150 Organisation Oesterreich,584.3277746,6281
+Inspection / Maintenance,EUR,150 Organisation Oesterreich,2130.665844,1609
+Installation / Commissioning,EUR,150 Organisation Oesterreich,2623.563509,672
+Instruction,EUR,150 Organisation Oesterreich,5199.766957,2
+Retrofit,EUR,150 Organisation Oesterreich,842.099759,309
+Transport damages,EUR,150 Organisation Oesterreich,2739.249891,5
+Welding,EUR,150 Organisation Oesterreich,1001.693558,15
+Accessories,EUR,200 Organisation Deutschland,683.0626984,170
+Breakdown,EUR,200 Organisation Deutschland,572.481842,33404
+Inspection / Maintenance,EUR,200 Organisation Deutschland,839.7649823,321
+Installation / Commissioning,EUR,200 Organisation Deutschland,893.6876772,2870
+Instruction,EUR,200 Organisation Deutschland,998.3534299,19
+Retrofit,EUR,200 Organisation Deutschland,459.9655119,1288
+Transport damages,EUR,200 Organisation Deutschland,599.6251988,71
+Welding,EUR,200 Organisation Deutschland,479.561653,24
+Breakdown,EUR,300 Organisation AG,2267.16282,355
+Installation / Commissioning,EUR,300 Organisation AG,546.2415698,34
+Retrofit,EUR,300 Organisation AG,683.8569913,7
+Accessories,EUR,320 Organisation International,588.1140913,2
+Breakdown,EUR,320 Organisation International,192.2847967,1653
+Inspection / Maintenance,EUR,320 Organisation International,90.65407862,859
+Installation / Commissioning,EUR,320 Organisation International,390.7633422,421
+Instruction,EUR,320 Organisation International,39.07128261,2
+Retrofit,EUR,320 Organisation International,195.5661415,32
+Breakdown,GBP,400 Organisation UK,499.6094222,382
+Inspection / Maintenance,GBP,400 Organisation UK,346.8945652,2
+Installation / Commissioning,GBP,400 Organisation UK,687.7032609,19
+Instruction,GBP,400 Organisation UK,160.6669565,2
+Retrofit,GBP,400 Organisation UK,167.3196814,17
+Accessories,USD,500 Organisation USA,2333.379193,7
+Breakdown,USD,500 Organisation USA,1655.016177,28107
+Inspection / Maintenance,USD,500 Organisation USA,1981.463255,316
+Installation / Commissioning,USD,500 Organisation USA,1909.7536,2162
+Instruction,USD,500 Organisation USA,772.1629587,24
+Retrofit,USD,500 Organisation USA,314.3365156,44
+Breakdown,EUR,561 Frima Deutschland,470.6454483,110
+Installation / Commissioning,EUR,561 Frima Deutschland,0,2
+Retrofit,EUR,561 Frima Deutschland,0,7
+Breakdown,EUR,562 Frima Frankreich SAS,455.5687209,12
+Breakdown,CHF,590 Frima International,7528.330198,10
+Breakdown,EUR,590 Frima International,466.7320991,44
+Retrofit,CHF,590 Frima International,1086.327717,2
+Breakdown,EUR,600 Organisation Italien,706.9314677,75
+Inspection / Maintenance,EUR,600 Organisation Italien,808.446913,2
+Installation / Commissioning,EUR,600 Organisation Italien,417.6854,54
+Accessories,PLN,610 Organisation Polen,2049.22651,32
+Breakdown,PLN,610 Organisation Polen,1668.110976,16707
+Inspection / Maintenance,PLN,610 Organisation Polen,1460.186644,2619
+Installation / Commissioning,PLN,610 Organisation Polen,884.6634585,3985
+Instruction,PLN,610 Organisation Polen,867.4749791,12
+Retrofit,PLN,610 Organisation Polen,851.346007,665
+Transport damages,PLN,610 Organisation Polen,2007.557965,2
+Welding,PLN,610 Organisation Polen,1521.004865,2
+Breakdown,EUR,620 Organisation Frankreich,213.8249986,7
+Breakdown,SEK,650 Organisation Scandinavien,6750.600696,7
+Breakdown,BRL,660 Brasilen,2706.415408,12
+Inspection / Maintenance,BRL,660 Brasilen,551.2945804,5
+Installation / Commissioning,BRL,660 Brasilen,800.1275293,19
+Breakdown,MXN,680 Organisation Mexiko,2418.972215,44
+Installation / Commissioning,MXN,680 Organisation Mexiko,7048.575808,112
+Instruction,MXN,680 Organisation Mexiko,2093.53913,2
+Retrofit,MXN,680 Organisation Mexiko,8318.166522,7
+Breakdown,EUR,690 Tuerkey,973.4713522,2
+Accessories,CHF,700 Organisation Schweiz,3306.727989,212
+Breakdown,CHF,700 Organisation Schweiz,1210.053039,1239
+Inspection / Maintenance,CHF,700 Organisation Schweiz,3246.107,575
+Installation / Commissioning,CHF,700 Organisation Schweiz,4109.211334,234
+Retrofit,CHF,700 Organisation Schweiz,1271.495143,119
+Inspection / Maintenance,EUR,710 Near Middle East,0,2
+Accessories,CAD,800 Organisation Canada,1606.499161,5
+Breakdown,CAD,800 Organisation Canada,1037.86959,1838
+Inspection / Maintenance,CAD,800 Organisation Canada,940.4225329,105
+Installation / Commissioning,CAD,800 Organisation Canada,1005.084474,2055
+Instruction,CAD,800 Organisation Canada,325.2272466,37
+Retrofit,CAD,800 Organisation Canada,1119.754018,22
+Welding,CAD,800 Organisation Canada,1314.547826,2
+Breakdown,EUR,900 Organisation Iberica,123.4275207,10
+Inspection / Maintenance,EUR,900 Organisation Iberica,349.7670957,2
+Installation / Commissioning,EUR,900 Organisation Iberica,320.3845174,41
+Instruction,EUR,900 Organisation Iberica,251.1851375,19
+Retrofit,EUR,900 Organisation Iberica,84.73964783,2
