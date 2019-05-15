@@ -19,4 +19,5 @@ install.packages("tidyverse")
 install.packages("DT")
 install.packages("plotly")
 
-Please install required packages before running the application. Copy and paste at the top of the code as needed.
+Check package code from:
+https://stackoverflow.com/questions/4090169/elegant-way-to-check-for-missing-packages-and-install-them
