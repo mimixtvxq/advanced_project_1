@@ -1,6 +1,11 @@
 # !diagnostics off
 
 #REQUIRED PACKAGES!#
+list.of.packages <- c("ggplot2", "shiny","shinydashboard","dplyr","tidyr",
+                      "tidyverse","DT","plotly")
+new.packages <- list.of.packages[!(list.of.packages %in% installed.packages()[,"Package"])]
+if(length(new.packages)>0) {install.packages(new.packages)}
+
 library(shiny)
 library(shinydashboard)
 library(ggplot2)
@@ -9,7 +14,6 @@ library(tidyr)
 library(tidyverse)
 library(DT)
 library(plotly)
-library(here)
 
 ##### Read in required files ####
 #Average Service Costs (Euro Converted)
